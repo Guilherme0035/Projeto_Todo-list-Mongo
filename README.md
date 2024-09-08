@@ -27,18 +27,18 @@ A API oferece operações CRUD para gerenciamento de recursos. A documentação 
   - `(http://localhost:8083/todos)´ - Criar Todo
 
 - **GET TODO**
-  - `(http://localhost:8083/todos)` - Listar Todos
+  - `(http://localhost:8083/todos)´ - Listar Todos
 
 - **PUT TODO**
-  - `(http://localhost:8083/todos/id)` - Atualizar Todo
+  - `(http://localhost:8083/todos/id)´ - Atualizar Todo
 
 - **DELETE TODO**
-  - `(http://localhost:8083/todos/id)` - Deletar Todo
+  - `(http://localhost:8083/todos/id)´ - Deletar Todo
 
 ## Como Rodar a Aplicação
 
 1. **Clone o repositório:**
-   - `git clone (https://github.com/Guilherme0035/Projeto_Todo-list-Mongo.git)`
+   - git clone `(https://github.com/Guilherme0035/Projeto_Todo-list-Mongo.git)`
 
 2. **Entre na pasta do projeto:**
    - `cd Projeto_Todo-list-Mongo`
