@@ -1,4 +1,4 @@
-# Workshop Spring Boot 2
+# Todo-list com Spring Boot 2 e MongoDB
 
 Este projeto é um Todo-list sobre o desenvolvimento de aplicações RESTful utilizando Spring Boot 2 e Spring Data MongoDB.
 
